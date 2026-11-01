@@ -1,14 +1,22 @@
 # AI-Native Computing Platform
 
-A complete operating environment for intelligent agents, designed around reasoning, memory, collaboration, and autonomous execution rather than human-first interfaces.
+A mission to build the next generation of computing around autonomous intelligence, semantic memory, and agent-native collaboration.
+
+## Why This Matters
+
+Modern software is designed around humans: windows, files, shells, browsers, and APIs built for visual interaction and manual control. But AI systems do not operate like humans. They work in continuous reasoning loops, coordinate across tools, persist memory, reason over large knowledge structures, and collaborate with other agents.
+
+The next major shift in computing will not come from simply adding AI features to old systems. It will come from creating an environment where intelligent agents are the primary actors: planning, executing, learning, and collaborating as native units of the platform.
+
+This matters because the future of software is not just more automation. It is a distributed intelligence layer that can reason over knowledge, act across systems, and evolve with minimal human intervention.
+
+## Mission
+
+To design a computing platform where intelligent agents can operate natively across execution, memory, knowledge, communication, and governance—creating a foundation for agent-first software, autonomous systems, and machine-scale collaboration.
 
 ## Overview
 
-Modern computing systems were built around humans: desktop environments, command shells, browsers, and file systems optimized for interaction and visual workflows. AI agents, however, operate differently. They need persistent memory, goal-driven execution, tool orchestration, semantic knowledge access, and direct coordination with other agents.
-
 This project explores a next-generation computing model: an AI-native execution platform that treats intelligent agents as first-class operating entities.
-
-## Core Vision
 
 Instead of a traditional operating system that manages processes and programs for human users, the architecture is designed around:
 
@@ -248,20 +256,6 @@ Instead of relying solely on HTTP pages and visual browser rendering, the stack 
 - trust-based collaboration
 
 This allows a network of autonomous systems to communicate in structured, machine-readable ways while still remaining compatible with current infrastructure.
-
-## Why This Matters
-
-This architecture aims to replace the old assumption that software is primarily built for human interaction.
-
-The next wave of computing is likely to be shaped by:
-
-- agent-native workflows
-- autonomous execution
-- semantic knowledge systems
-- shared intelligence across machines
-- self-improving runtime environments
-
-The long-term vision is a digital environment where agents operate as collaborators, not as tools buried inside software designed for people.
 
 ## Summary
 
